@@ -1,0 +1,11 @@
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\bin\Release\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\bin\Release\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\bin\Release\netcoreapp1.1\MusicApp2017.deps.json
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\bin\Release\netcoreapp1.1\MusicApp2017.runtimeconfig.json
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\bin\Release\netcoreapp1.1\MusicApp2017.runtimeconfig.dev.json
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\bin\Release\netcoreapp1.1\MusicApp2017.dll
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\bin\Release\netcoreapp1.1\MusicApp2017.pdb
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\obj\Release\netcoreapp1.1\MusicApp2017.csprojResolveAssemblyReference.cache
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\obj\Release\netcoreapp1.1\MusicApp2017.AssemblyInfo.cs
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\obj\Release\netcoreapp1.1\MusicApp2017.dll
+C:\Users\Suzy\Source\Repos\MusicApp17\src\MusicApp2017\obj\Release\netcoreapp1.1\MusicApp2017.pdb
